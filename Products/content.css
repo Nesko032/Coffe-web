@@ -338,7 +338,7 @@ color: #4D4D4D;
 
 /* Tablet */
 @media screen and ((min-width: 740px) and (max-width: 1023px)) {
-    #content .Tablet-decor-1 {
+    #content .Mobile-decor-1 {
         left: 138.69%;
         right: 83.41%;
         top: -20%;
